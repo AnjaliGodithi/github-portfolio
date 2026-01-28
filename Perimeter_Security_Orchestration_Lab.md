@@ -1,4 +1,4 @@
-# Lab 09: Perimeter Security Orchestration & Ingress Control
+# Lab 01: Perimeter Security Orchestration & Ingress Control
 
 **Name:** Anjali Godithi  
 **Course:** IT 335  

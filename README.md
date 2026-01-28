@@ -44,10 +44,6 @@ Key skills demonstrated:
 - Documentation with proof-of-work screenshots
 - Diagnostic logs for troubleshooting
 
----
-
-## 📌 Labs & Documentation
-- [GitHub Portfolio (IT 335 Labs)](https://github.com/AnjaliGodithi/github-portfolio)
 
 ---
 
