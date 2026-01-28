@@ -26,5 +26,5 @@ To document the 2021 Facebook outage and practice using GitHub for enterprise do
 
 \## 📸 Proof of Work
 
-!\[Successful git clone command](./git\_clone.png)
+!\[Successful git clone command](git\_clone.png)
 
