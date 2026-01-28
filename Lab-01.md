@@ -34,5 +34,5 @@ This outage shows how a routing change can become a total service failure. In an
 ---
 
 ## 📸 Proof of Work
-![Successful git clone command](./assets/lab-01/git_clone.png)
+![Successful git clone command](./assests/lab-01/git_clone.png)
 
