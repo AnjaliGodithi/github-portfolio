@@ -13,9 +13,11 @@ To implement a default-deny ingress firewall policy, allow only required service
 ---
 
 ## 🛠️ Tools Used
-- UFW (Host-based firewall)
-- Linux terminal commands (`ss`, `ip`, `ufw`)
-- netcat (`nc`) for testing
+
+- Windows PowerShell
+- Windows Defender Firewall
+- netsh advfirewall
+- Test-NetConnection
 
 ---
 
@@ -29,10 +31,6 @@ To implement a default-deny ingress firewall policy, allow only required service
 
 ## ✅ Commands Executed
 ```bash
-sudo ufw status verbose
-sudo ufw default deny incoming
-sudo ufw default allow outgoing
-sudo ufw enable
-sudo ufw allow 22/tcp
-sudo ufw status numbered
+netsh advfirewall show allprofiles
+netsh advfirewall firewall show rule name=all
 ```
